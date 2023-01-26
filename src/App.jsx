@@ -205,7 +205,7 @@ function App() {
                   </div>
                 </div>
 
-                <div className='flex justify-between my-10 items-center'>
+                <div className='flex justify-between mt-8 items-center'>
                   <div className='flex items-center mt-2 text-gray-600 dark:text-gray-400'>
                     <a
                       href='https://www.facebook.com/shafinul98'
