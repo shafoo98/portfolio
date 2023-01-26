@@ -52,7 +52,7 @@ function App() {
             stiffness: 90,
             damping: 100,
           }}
-          className='flex flex-col h-screen justify-center items-center text-center text-lg md:text-3xl tracking-widest text-green-600 p-8'
+          className='flex flex-col h-screen justify-center items-center text-center text-lg md:text-3xl tracking-widest text-green-600 p-4 md:p-8'
         >
           <p>
             {`<p>
