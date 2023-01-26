@@ -15,7 +15,7 @@ function App() {
             stiffness: 60,
             damping: 20,
           }}
-          className='h-96 mt-16'
+          className='h-72 md:h-96 mt-16'
           src={programming_guy}
           alt=''
         />
