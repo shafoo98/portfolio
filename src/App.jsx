@@ -30,7 +30,7 @@ function App() {
           className='flex flex-col h-screen justify-center items-center gap-[10px] text-center text-3xl md:text-5xl tracking-widest text-green-600'
         >
           <h1 className='animate-pulse '>{`<h1>Shafinul Islam</h1>`}</h1>
-          <h6 className='text-xl text-white tracking-widest'>
+          <h6 className='text-lg text-white tracking-widest'>
             {`MERN Stack Developer | Car Enthusiast | Amateur Photographer`}
           </h6>
         </motion.div>
@@ -53,7 +53,7 @@ function App() {
             stiffness: 90,
             damping: 100,
           }}
-          className='flex flex-col h-screen justify-center items-center text-center text-xl md:text-3xl tracking-widest text-green-600 p-8'
+          className='flex flex-col h-screen justify-center items-center text-center text-lg md:text-3xl tracking-widest text-green-600 p-8'
         >
           <p>
             {`<p>
@@ -77,7 +77,7 @@ function App() {
             stiffness: 180,
             damping: 160,
           }}
-          className='flex flex-col h-screen justify-center items-center gap-[10px] text-center text-3xl md:text-5xl tracking-widest text-green-600'
+          className='flex flex-col h-screen justify-center items-center gap-[10px] text-center text-2xl md:text-5xl tracking-widest text-green-600'
         >
           <h1 className='animate-pulse'>{`<h1>My Works</h1>`}</h1>
 
@@ -120,7 +120,7 @@ function App() {
           className='relative flex flex-col items-top justify-center min-h-screen sm:items-center sm:pt-0'
         >
           <h1 className='text-2xl md:text-3xl tracking-widest text-green-600 mb-20 text-center animate-pulse'>{`<h1>Contact Me </h1>`}</h1>
-          <p className='text-xl md:text-2xl tracking-widest text-green-600 mb-20 text-center md:px-48 px-24'>
+          <p className='text-xl md:text-2xl tracking-widest text-green-600 mb-10 text-center md:px-48 px-24'>
             Below you can find my basic details like where I live, my phone
             number , my work email, and my social footprint. P.S. If you like
             pictures of the sky, have a look at my instagram 😎
