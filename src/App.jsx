@@ -36,7 +36,6 @@ function App() {
         </motion.div>
       </section>
       <section className='flex flex-col justify-evenly items-center snap-y snap-mandatory snap-center h-screen'>
-        <h1 className='animate-pulse text-center text-3xl md:text-5xl tracking-widest text-green-600 mt-10'>{`<h1>About Me</h1>`}</h1>
         <div className='mt-20'>
           <Player
             autoplay
