@@ -50,7 +50,7 @@ function App() {
             autoplay
             loop
             src="https://assets10.lottiefiles.com/packages/lf20_tno6cg2w.json"
-            className="md:w-9/12 md:h-9/12 w-6/12 h-6/12"
+            className="md:w-9/12 md:h-9/12 w-8/12 h-8/12"
           />
         </div>
         <motion.div
