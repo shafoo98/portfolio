@@ -91,7 +91,7 @@ function App() {
 
           <div className="flex justify-center my-10">
             <a
-              href="https://www.auto-junction-store.com/"
+              href="https://www.auto-junction-store.com"
               data-mdb-ripple="true"
               data-mdb-ripple-color="light"
               target="_blank"
