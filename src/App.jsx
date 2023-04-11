@@ -30,13 +30,13 @@ function App() {
           }}
           className="flex flex-col h-screen justify-center items-center gap-[10px] text-center text-2xl md:text-5xl tracking-widest text-green-600"
         >
-          <h1 className="animate-pulse ">{`<h1>Shafinul Islam</h1>`}</h1>
-          <h6 className="text-base text-white tracking-widest">
+          <h1 className="animate-pulse text-base sm:text-lg md:text-2xl lg:text-4xl">{`<h1>Shafinul Islam</h1>`}</h1>
+          <h6 className="text-xs md:text-base text-white tracking-widest">
             {`MERN Stack Developer | Car Enthusiast | Amateur Photographer`}
           </h6>
           <a href={Resume}>
             <div className="flex border-[1px] border-emerald-500 my-10 p-2 justify-center items-center gap-2">
-              <h6 className="text-lg text-green-600 tracking-widest">
+              <h6 className="text-sm md:text-lg lg:text-2xl text-green-600 tracking-widest">
                 Download my resume
               </h6>
               <FaFileDownload size={20} />
@@ -63,7 +63,7 @@ function App() {
           }}
           className="flex flex-col h-screen justify-center items-center text-center text-base md:text-2xl tracking-widest text-green-600 p-4 md:p-8"
         >
-          <p>
+          <p className='text-sm md:text-base lg:text-2xl'>
             {`<p>
             I am a developer mostly front-end but I like to indulge into
             full-stack projects especially using the MERN Stack. After 4 years
